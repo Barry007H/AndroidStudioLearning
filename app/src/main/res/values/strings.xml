@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RClocator</string>
+    <string name="reg_text">User Registration</string>
+    <string name="enter_email_text">Enter Email</string>
+    <string name="enter_pass_text">Enter Password</string>
+    <string name="txtView_Log_title">User Login</string>
+    <string name="txt_log_email">Enter Email</string>
+    <string name="txt_log_pass">Enter Password</string>
+    <string name="title_activity_map__main_page">Map</string>
+    <string name="api_key">AIzaSyDL6eJ4oVhL7MQ4iKvTHN-SnyWrbnJzB1o</string>
+    <string name="weather_api_key">d4c81b6c97107be22c009095a824737a</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

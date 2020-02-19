@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1183979181",
+    "firebase_url": "https://rclocator-2f379.firebaseio.com",
+    "project_id": "rclocator-2f379",
+    "storage_bucket": "rclocator-2f379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1183979181:android:5770fc5cca18c766829824",
+        "android_client_info": {
+          "package_name": "com.example.RClocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1183979181-4rn3g9l1m8471sem2v3nc4giu3pklhbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.RClocator",
+            "certificate_hash": "c2e4315f5badd35cb296c8a96f4738937579fc4b"
+          }
+        },
+        {
+          "client_id": "1183979181-k8nb7uis1vvl25ff5g60linffvll76te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.RClocator",
+            "certificate_hash": "65a6395041d2af392694369f1c985201eda4366d"
+          }
+        },
+        {
+          "client_id": "1183979181-fv3365jm1ns1sv753f7pt1bdca615qsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpemyBaZVAg4ZOvguAbMPop7sw3bS_U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1183979181-fv3365jm1ns1sv753f7pt1bdca615qsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
